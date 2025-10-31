@@ -12,7 +12,7 @@ Investigate and respond to a **suspicious outbound network connection** from a L
 
 ## **▶️Video Tutorial**
 
-vidoe will be included here 
+video will be included here 
 ---
 
 
